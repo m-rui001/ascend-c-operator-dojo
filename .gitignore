@@ -1,0 +1,7 @@
+# 外部克隆的参考仓库（samples / cann-ops / cann-ops-adv），体积约 800MB，不入库
+reference/
+
+# 探测用临时文件
+*_probe*
+probe_*
+raw.html
